@@ -12,7 +12,7 @@ const Home = () => {
     >
       <div className="flex flex-col items-center justify-center min-h-[calc(100vh-4rem)] bg-black bg-opacity-50">
         <h1 className="text-5xl font-bold text-center mb-4 text-white">Scorp Farmers</h1>
-        <h1 className="text-3xl font-bold text-center mb-4 text-white">Empowering Your Farming Journey Farmer Analytics</h1>
+        <h1 className="text-3xl font-bold text-center mb-4 text-white">Empowering Your Farming Journey with Analytics</h1>
 
         {/* <p className="text-lg text-gray-300 mb-8 text-center max-w-md">
           Farmer Analytics
